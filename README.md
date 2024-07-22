@@ -15,12 +15,12 @@ This repository contains the code and dataset required for the Car Price Predict
 The trained models achieved the following performance metrics:
 
 1. Linear Regression
-- R-squared Error (Train): 0.89
-- R-squared Error (Test): 0.85
+    - R-squared Error (Train): 0.89
+    - R-squared Error (Test): 0.85
 
 2. Lasso Regression
-- R-squared Error (Train): 0.88
-- R-squared Error (Test): 0.84
+    - R-squared Error (Train): 0.88
+    - R-squared Error (Test): 0.84
 
 ## Requirements
 - Python 3.x
