@@ -38,13 +38,14 @@ Attribute Information:
 
 - name: The name of the car
 - year: The year the car was purchased
-- Selling_Price: The price at which the owner wants to sell the car at
+- Selling_Price: The price at which the owner wants to sell the car at.
 - Present_Price: This is the current ex-showroom price of the car.
 - Kms_Driven: The distance completed by the car in kilometers
 - Fuel_Type: The type of fuel used by the car (Diesel, Petrol, CNG, LPG, Electric)
 - Seller_Type: The type of seller (Individual, Dealer)
 - Transmission: The type of transmission (Manual, Automatic)
 - Owner: The number of previous owners
+
 For used motorcycle datasets, please visit Motorcycle Dataset on Kaggle- https://www.kaggle.com/nehalbirla/motorcycle-dataset
 
 Feel free to dive into the code, experiment with different features, and enhance the project further. If you have any suggestions, I'd love to hear from you. Happy coding!
