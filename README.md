@@ -15,19 +15,19 @@ This repository contains the code and dataset required for the Car Price Predict
 The trained models achieved the following performance metrics:
 
 1. Linear Regression
-    - R-squared Error (Train): 0.89
-    - R-squared Error (Test): 0.85
+    - R-squared Error (Train): 0.879
+    - R-squared Error (Test): 0.836
 
 2. Lasso Regression
-    - R-squared Error (Train): 0.88
-    - R-squared Error (Test): 0.84
+    - R-squared Error (Train): 0.778
+    - R-squared Error (Test): 0.793
 
 ## Requirements
 - Python 3.x
 - Pandas
 - NumPy
-- Scikit-learn
 - Matplotlib
+- Scikit-learn
 
 ## About Dataset
 ### Context
@@ -36,15 +36,15 @@ This dataset contains information about used cars, which can be used for purpose
 ### Content
 Attribute Information:
 
-- name: The name of the car
-- year: The year the car was purchased
+- Car_Name: The name of the car
+- Year: The year the car was purchased
 - Selling_Price: The price at which the owner wants to sell the car at.
 - Present_Price: This is the current ex-showroom price of the car.
 - Kms_Driven: The distance completed by the car in kilometers
 - Fuel_Type: The type of fuel used by the car (Diesel, Petrol, CNG, LPG, Electric)
 - Seller_Type: The type of seller (Individual, Dealer)
 - Transmission: The type of transmission (Manual, Automatic)
-- Owner: The number of previous owners
+- Owner: The number of previous owners (numeric)
 
 For used motorcycle datasets, please visit Motorcycle Dataset on Kaggle- https://www.kaggle.com/nehalbirla/motorcycle-dataset
 
