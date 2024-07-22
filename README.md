@@ -19,8 +19,8 @@ The trained models achieved the following performance metrics:
     - R-squared Error (Test): 0.836
 
 2. Lasso Regression
-    - R-squared Error (Train): 0.778
-    - R-squared Error (Test): 0.793
+    - R-squared Error (Train): 0.842
+    - R-squared Error (Test): 0.870
 
 ## Requirements
 - Python 3.x
